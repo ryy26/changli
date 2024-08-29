@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "SYAHIRA'S";
+        content: "Syahira's Favorite Character";
     }
     21%, 40%{
-        content: "FATHMA'S";
+        content: "Fathma's Favorite Character";
     }
     41%, 60%{
-        content: "ALTHAFUNNISA'S";
+        content: "Althafunnisa's Favorite Character";
     }
     61%, 80%{
-        content: "ALTA'S";
+        content: "Alta's Favorite Character";
     }
     81%, 100%{
-        content: "Favorite Charatcer";
+        content: "Patient Woman";
     }
 }
 
